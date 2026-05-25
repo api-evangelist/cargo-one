@@ -1,0 +1,77 @@
+aid: cargo-one
+name: cargo.one
+description: >-
+  cargo.one is a Berlin-headquartered digital freight platform that operates as
+  an AI-native operating system for air and ocean freight logistics. The
+  platform unifies freight forwarder operations by centralizing rates, partners,
+  and systems on a single end-to-end surface shared between human teams and AI
+  agents. For freight forwarders, cargo.one provides air e-booking with 76+
+  integrated airlines (300+ total network), ocean freight rate management with
+  10+ liner integrations, multimodal quoting across air, ocean, road, and local
+  charges, a Rate Management System for buy/sell/internal rates, a branded
+  24/7 self-service Customer Portal, analytics dashboards, a 24/7 Global
+  Network for cross-timezone quoting, and an API Suite with native TMS
+  integrations for CargoWise, Cargospot, and Descartes. For carriers, cargo.one
+  delivers a market-intelligence and customer-access platform spanning the
+  end-to-end commercial cycle. AI workflows are offered in three deployment
+  modes — Co-pilot (approval-based), Supervised (autonomous with escalation),
+  and Autonomous — covering rate management, rate procurement, quoting,
+  booking, and customer support automation, backed by retrieval-augmented
+  generation and a cargo.one MCP Server for custom solutions. Notable customers
+  include Lufthansa Cargo, Kuehne+Nagel, DSV, Maersk, CMA CGM, Hellmann, and
+  Rhenus Logistics. cargo.one's API and TMS integrations are partner /
+  enterprise offerings — there is no public self-serve OpenAPI specification,
+  developer sandbox, or open-source SDK published outside of customer
+  onboarding.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Air Freight
+  - Ocean Freight
+  - Logistics
+  - Freight Forwarding
+  - Cargo Booking
+  - Multimodal
+  - Rate Management
+  - TMS Integration
+  - CargoWise
+  - Descartes
+  - Cargospot
+  - AI Agents
+  - MCP
+  - Berlin
+url: https://raw.githubusercontent.com/api-evangelist/cargo-one/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.cargo.one
+  - type: Forwarders
+    url: https://www.cargo.one/forwarders
+  - type: Carriers
+    url: https://www.cargo.one/carriers
+  - type: APIAndTMSIntegration
+    url: https://www.cargo.one/forwarders/solutions/api-tms-integration
+  - type: TMSIntegrationProduct
+    url: https://www.cargo.one/products/tms-integration
+  - type: Blog
+    url: https://www.cargo.one/blog
+  - type: HelpCenter
+    url: https://help.cargo.one
+  - type: Careers
+    url: https://www.cargo.one/careers
+  - type: Demo
+    url: https://www.cargo.one/demo
+  - type: Support
+    url: mailto:support@cargo.one
+  - type: GitHub
+    url: https://github.com/cargo-one
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/cargoone/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
