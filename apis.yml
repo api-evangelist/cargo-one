@@ -64,6 +64,7 @@ tags:
   - AI Agents
   - MCP
   - Berlin
+  - Freight
 tags_raw:
   - Air Freight
   - Ocean Freight
@@ -79,6 +80,7 @@ tags_raw:
   - AI Agents
   - MCP
   - Berlin
+  - Freight
 url: https://raw.githubusercontent.com/api-evangelist/cargo-one/refs/heads/main/apis.yml
 created: '2026-05-25'
 modified: '2026-05-25'
