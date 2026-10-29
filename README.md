@@ -1,4 +1,4 @@
-# cargo-one
+# cargo.one
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-cargo.one — AI-native operating system for air and ocean freight (Berlin)
+cargo.one is a Berlin-headquartered digital freight platform that operates as an AI-native operating system for air and ocean freight logistics. The platform unifies freight forwarder operations by centralizing rates, partners, and systems on a single end-to-end surface shared between human teams and AI agents. For freight forwarders, cargo.one provides air e-booking with 76+ integrated airlines (300+ total network), ocean freight rate management with 10+ liner integrations, multimodal quoting across air, ocean, road, and local charges, a Rate Management System for buy/sell/internal rates, a branded 24/7 self-service Customer Portal, analytics dashboards, a 24/7 Global Network for cross-timezone quoting, and an API Suite with native TMS integrations for CargoWise, Cargospot, and Descartes. For carriers, cargo.one delivers a market-intelligence and customer-access platform spanning the end-to-end commercial cycle. AI workflows are offered in three deployment modes — Co-pilot (approval-based), Supervised (autonomous with escalation), and Autonomous — covering rate management, rate procurement, quoting, booking, and customer support automation, backed by retrieval-augmented generation and a cargo.one MCP Server for custom solutions. Notable customers include Lufthansa Cargo, Kuehne+Nagel, DSV, Maersk, CMA CGM, Hellmann, and Rhenus Logistics. cargo.one's API and TMS integrations are partner / enterprise offerings — there is no public self-serve OpenAPI specification, developer sandbox, or open-source SDK published outside of customer onboarding.
+
+**Areas:** Air Freight · Ocean Freight · Logistics · Freight Forwarding · Cargo Booking · Multi-Modal · Rate Management · TMS Integration · CargoWise · Descartes · Cargospot · AI Agents
+
+## cargo.one on APIs.io
+
+Everything profiled for cargo.one is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cargo-one/](https://apis.io/providers/cargo-one/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cargo One Domain Security](https://apis.io/security/cargo-one/cargo-one-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.cargo.one)
+- [Blog](https://www.cargo.one/blog)
+
+## API Evangelist rating
+
+**Kin Score 5.1** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cargo-one/](https://apis.io/providers/cargo-one/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for cargo.one: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cargo-one/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
